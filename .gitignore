@@ -4,3 +4,4 @@ soot-infoflow-summaries/target/
 /.recommenders
 .idea/
 *.iml
+.DS_Store
