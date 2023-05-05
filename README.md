@@ -1,3 +1,6 @@
+# Notice
+Since we cannot log in to the e-mail registered with this github account, We have deprecated this repository and migrated content to a new repository [ppflower/XPOChecker](https://github.com/ppflower/XPOChecker). All subsequent updates will be displayed here.
+
 # XPOChecker Prototype
 XPOChecker is designed to detect a certain type of privacy risk, which is called cross-user personal data over-delivery (denoted as XPO).
 
